@@ -1,0 +1,21 @@
+Features:
+  ✔ Add/Edit booking
+  ✔ Add/Edit Echange items (income, expenses, bills etc)
+  ✔ Investor dashboard and analytics
+  ✔ Transactions between investors
+  ✔ Add/Edit property settings
+
+Tech stack & SPA setup:
+  ✔ Authentication
+  ✔ Integration with Firebase and use of Realtime database
+  ✔ Localization
+  ✔ Typescript
+  ✔ Vue 3
+  ✔ Vite
+  ✔ Vitest
+  ✔ Pinia store management
+  ✔ Quasar framework for component library
+  ✔ Tailwind use for styles
+  ✔ PWA implementation
+  ✔ Dockerization
+

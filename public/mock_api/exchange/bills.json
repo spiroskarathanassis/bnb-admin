@@ -1,0 +1,38 @@
+{
+  "-NdMRwHt2wyVfOxle7w-": {
+    "description": "Electricity bill",
+    "id": 1693684319071,
+    "month": "September",
+    "notes": "Paid online",
+    "payer": 2,
+    "price": 150,
+    "year": 2023
+  },
+  "-NdMkM3-JIcReb046A2Z": {
+    "description": "Water bill",
+    "id": 1693689409415,
+    "month": "October",
+    "notes": "Paid via bank transfer",
+    "payer": 2,
+    "price": 30,
+    "year": 2023
+  },
+  "-No1dKnlPMqDjb2DAomD": {
+    "description": "Internet bill",
+    "id": 1705146407894,
+    "month": "November",
+    "notes": "Paid in cash",
+    "payer": 3,
+    "price": 50,
+    "year": 2023
+  },
+  "-OADo5hIAA3s5WupgmHN": {
+    "description": "Gas bill",
+    "id": 1730046617993,
+    "month": "December",
+    "notes": "Paid via credit card",
+    "payer": 3,
+    "price": 40,
+    "year": 2023
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "admin_page": {
+    "admin": "Management",
+    "booking_history": "Booking history"
+  },
+  "analytics_page": {
+    "avg_client_paid_per_platform": "Avg Client Paid per Platform",
+    "avg_daily_profit_per_platform": "Avg Daily Profit per Platform",
+    "monthly_revenue_per_year": "Monthly Revenue per Year",
+    "total_annual_revenue": "Total Annual Revenue"
+  },
+  "booking_info": {
+    "actions": {
+      "confirm": "Confirm",
+      "reject": "Reject",
+      "resend_confirmation_email": "Resend Confirmation Email",
+      "send_check_in_reminder_email": "Send Check-in Reminder",
+      "send_check_out_reminder_email": "Send Check-out Reminder",
+      "submit": "Submit",
+      "mark_as_paid": "Mark as Paid",
+      "finish_editing": "Finish Editing"
+    },
+    "fields": {
+      "adults": "Adults",
+      "booking_code": "Reservation No.",
+      "children": "Children",
+      "client_message": "Client's message",
+      "contact": "Contact",
+      "dates_error": "The dates are incorrect",
+      "dates": "Dates",
+      "email": "Email",
+      "full_name": "Full name",
+      "guests_error": "At least one guest is required",
+      "guests": "Guests",
+      "infants": "Infants",
+      "info_details": "More details",
+      "keybox": "Key code",
+      "mobile": "Mobile",
+      "notes": "Notes",
+      "optional_fields": "Optional fields",
+      "payment_status_label": "Payment Status",
+      "payment_status": {
+        "paid": "Payment Confirmed",
+        "pending": "Payment Pending"
+      },
+      "price": "Price",
+      "time": "Time"
+    }
+  },
+  "calendar": {
+    "calendar": "Calendar",
+    "next_bookings": "Next bookings",
+    "today": "Today",
+    "unavailable": "Unavailable"
+  },
+  "exchange_page": {
+    "person_expenses_card": {
+      "balance": "Balance",
+      "income": "Income",
+      "spent": "Spent"
+    },
+    "total_expenses": "Total costs"
+  },
+  "modals": {
+    "exchange": {
+      "price": "Price",
+      "executed_by": "Executed by",
+      "notes": "Notes"
+    },
+    "actions": {
+      "cancel": "Cancel",
+      "delete": "Delete",
+      "save": "Save",
+      "close": "Close",
+      "apply": "Apply"
+    },
+    "add": "Add",
+    "bill": {
+      "all": "All",
+      "payer": "Payer's name",
+      "description": "Description",
+      "notes": "Notes",
+      "price": "Price",
+      "title": "Bill"
+    },
+    "edit": "Edit",
+    "errors": {
+      "empty_field": "This field is required",
+      "invalid_number": "Invalid number"
+    },
+    "new_purchase": {
+      "all": "All",
+      "purchaser": "Purchaser's name",
+      "description": "Description",
+      "notes": "Notes",
+      "period": "Period",
+      "price": "Price",
+      "title": "Expense"
+    },
+    "revenue": {
+      "coming_from": "Coming from: (eg Airbnb)",
+      "description": "Description",
+      "notes": "Notes",
+      "price": "Price",
+      "title": "Revenue"
+    },
+    "transaction": {
+      "notes": "Notes",
+      "price": "Price",
+      "receiver": "Recipient",
+      "sender": "Sender",
+      "title": "Transaction"
+    }
+  },
+  "notes_page": {
+    "completed": "Done",
+    "new_todo": "NEW NOTE",
+    "todo": "Pending",
+    "todo_list": "Notes list"
+  },
+  "noties_page": {
+    "a_type": {
+      "booking": "a booking",
+      "exchange": "a exchange",
+      "purchase": "a purchase",
+      "bill": "a bill",
+      "transaction": "a transaction",
+      "todo": "a todo"
+    },
+    "status": {
+      "created": "created",
+      "updated": "updated",
+      "deleted": "deleted"
+    },
+    "latest_notifications": "Latest notifications",
+    "no_notifications": "No new notifications",
+    "diff": {
+      "after": "After",
+      "before": "Before"
+    }
+  },
+  "reuse": {
+    "add_new": "Add",
+    "calendar": "Calendar",
+    "copied": "Copied",
+    "copiedCode": "Copied. Code:",
+    "delete": "Delete",
+    "kanban": "Kanban",
+    "messages": {
+      "noBookings": "No available bookings.",
+      "request_admin_access": "Request access from Admin."
+    },
+    "month": "Month",
+    "months": {
+      "April": "April",
+      "August": "August",
+      "December": "December",
+      "February": "February",
+      "January": "January",
+      "July": "July",
+      "June": "June",
+      "March": "March",
+      "May": "May",
+      "November": "November",
+      "October": "October",
+      "September": "September"
+    },
+    "period": "Period",
+    "periods": {
+      "APRIL_JUNE": "April - June",
+      "JANUARY_MARCH": "January - March",
+      "JULY_SEPTEMBER": "July - September",
+      "OCTOBER_DECEMBER": "October - December"
+    },
+    "platform": "Platform",
+    "sign_in": "Sign in",
+    "year": "Year"
+  },
+  "routes": {
+    "adminpanel": "Management",
+    "analytics": "Analytics",
+    "exchange": "Exchange",
+    "exchange_bills": "Bills",
+    "exchange_purchases": "Purchases/Expenses",
+    "exchange_revenue": "Revenue",
+    "exchange_transactions": "Transactions/Transfers",
+    "language": {
+      "en": "English"
+    },
+    "logout": "Log out",
+    "new_booking": "New Booking",
+    "notifications": "Notifications",
+    "todos": "Notes"
+  },
+  "propertySettings": {
+    "availability": "Availability",
+    "basePriceAppliesTo": "Base price applies to {x} guests",
+    "checkin": "Check-in",
+    "checkinCheckout": "Check-in/Check-out",
+    "checkout": "Check-out",
+    "defineSpecialPrice": "Define special price",
+    "extraPricePerPerson": "Extra price per person",
+    "guests": "Guests",
+    "markedAsUnavailable": "Marked as Unavailable",
+    "maxGuests": "Max guests",
+    "maximumDays": "Maximum days",
+    "minimumDays": "Minimum days",
+    "pricePerNight": "Price per night",
+    "prices": "Prices",
+    "pricing": "Pricing",
+    "reservationLength": "Reservation Length",
+    "save": "Save",
+    "selectedDates": "Selected Dates",
+    "selectedDatesAvgPrice": "Selected dates avg price",
+    "settings": "Property Settings",
+    "specialPrice": "Special Price"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "-MoK1nX0IiMFJ3KLORwC": {
+    "approval_status": "CONFIRMED",
+    "checkin": "2025-08-23",
+    "checkout": "2025-08-24",
+    "guests": {
+      "adults": 8,
+      "children": 0,
+      "infants": 0
+    },
+    "id": 1727566364616,
+    "is_booking_closed": false,
+    "message": "",
+    "notes": "",
+    "payment_status": "SUCCESS",
+    "platform": "Booking",
+    "price": 0,
+    "year": 2025
+  },
+  "-O7ujnzPSWAkBuSr7oWD": {
+    "approval_status": "CONFIRMED",
+    "checkin": "2025-02-05",
+    "checkout": "2025-02-08",
+    "client_info": {
+      "email": "test@gmail.com",
+      "mobile": "",
+      "name": "Test client"
+    },
+    "guests": {
+      "adults": 2,
+      "children": 0,
+      "infants": 0
+    },
+    "id": 1727562464616,
+    "is_booking_closed": false,
+    "keybox": {
+      "first_code": "",
+      "second_code": ""
+    },
+    "notes": "",
+    "payment_status": "SUCCESS",
+    "platform": "Booking",
+    "price": 130,
+    "year": 2025
+  },
+  "-OFgMDUBRdUFZNyp6FXI": {
+    "approval_status": "CONFIRMED",
+    "checkin": "2025-03-15",
+    "checkout": "2025-03-21",
+    "client_info": {
+      "email": "",
+      "mobile": "",
+      "name": "Joaquin"
+    },
+    "guests": {
+      "adults": 2,
+      "children": 0,
+      "infants": 0
+    },
+    "id": 1735911072680,
+    "is_booking_closed": false,
+    "keybox": {
+      "first_code": "12345",
+      "second_code": ""
+    },
+    "notes": "",
+    "payment_status": "PENDING",
+    "platform": "Private",
+    "price": 500,
+    "year": 2025
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "-Moa2U0a5SgRp2yXiMyF": {
+    "description": "Artificial plants",
+    "id": "2",
+    "month": "APRIL_JUNE",
+    "price": 150,
+    "purchaser": 2,
+    "year": 2024
+  },
+  "-Moa2U0hkrjYtyOdxTsk": {
+    "description": "Bamboo dividers",
+    "id": "3",
+    "month": "JANUARY_MARCH",
+    "notes": "Note",
+    "price": 400,
+    "purchaser": 3,
+    "year": 2025
+  },
+  "-Moa2U0kBpVrUiB0EBX8": {
+    "description": "Vodafone router",
+    "id": "5",
+    "month": "OCTOBER_DECEMBER",
+    "price": 19.9,
+    "purchaser": 2,
+    "year": 2024
+  },
+  "-Moa2U0ltnwYtXnacBUT": {
+    "description": "Vinyl records",
+    "id": "4",
+    "month": "OCTOBER_DECEMBER",
+    "price": 425,
+    "purchaser": 3,
+    "year": 2024
+  },
+  "-Moa2U0ql0r40wSUBvLs": {
+    "description": "Chromecast",
+    "id": "6",
+    "month": "OCTOBER_DECEMBER",
+    "price": 36.25,
+    "purchaser": 2,
+    "year": 2024
+  },
+  "-Moa2U1ZoOM64U2o302N": {
+    "description": "Interior door lock (small room)",
+    "id": "7",
+    "month": "OCTOBER_DECEMBER",
+    "price": 32,
+    "purchaser": 2,
+    "year": 2024
+  },
+  "-ModowKRX8skcOEmjP-1": {
+    "description": "Nightstand",
+    "id": 10,
+    "month": "JULY_SEPTEMBER",
+    "notes": "",
+    "price": 220,
+    "purchaser": 2,
+    "year": 2024
+  },
+  "-Mw86j5c46Sh8I6Ga2i1": {
+    "description": "dsd3w",
+    "id": 1645125496859,
+    "month": "APRIL_JUNE",
+    "notes": "",
+    "price": 3,
+    "purchaser": 3,
+    "year": 2024
+  },
+  "-MxQQqXYgjpkUut0tf1T": {
+    "description": "Whistles",
+    "id": 1646506502061,
+    "month": "JANUARY_MARCH",
+    "notes": "",
+    "price": 900,
+    "purchaser": 3,
+    "year": 2025
+  },
+  "-NdMHF4967eT1Rkua76X": {
+    "description": "Test note",
+    "id": 1693681516588,
+    "month": "APRIL_JUNE",
+    "notes": "",
+    "price": 10,
+    "purchaser": 2,
+    "year": 2024
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "app_users": [
+    {
+      "email": "johndoe@gmail.com",
+      "first_name": "John",
+      "is_admin": false,
+      "lang": "en",
+      "last_name": "Doe",
+      "short_name": "JD",
+      "userId": 1
+    },
+    {
+      "email": "paulsmith@gmail.com",
+      "first_name": "Paul",
+      "is_admin": true,
+      "is_app_owner": true,
+      "lang": "en",
+      "last_name": "Smith",
+      "short_name": "PS",
+      "userId": 2
+    },
+    {
+      "email": "bobsmith@gmail.com",
+      "first_name": "Bob",
+      "is_admin": true,
+      "is_app_owner": true,
+      "lang": "en",
+      "last_name": "Smith",
+      "short_name": "BS",
+      "userId": 3
+    }
+  ],
+  "checkinTime": "14:00",
+  "checkoutTime": "10:00",
+  "extra_price_per_person": 5,
+  "min_nights_per_book": 2,
+  "price_per_night": 60,
+  "version": "0.0.0"
+}

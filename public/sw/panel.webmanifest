@@ -1,0 +1,17 @@
+{
+  "short_name": "BnB Admin",
+  "name": "BnB Admin",
+  "icons": [
+    {
+      "src": "./assets/logo.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    }
+  ],
+  "start_url": "https://bnb-admin.netlify.app",
+  "background_color": "#fff2f2",
+  "display": "minimal-ui",
+  "scope": "https://bnb-admin.netlify.app",
+  "theme_color": "#fff2f2",
+  "description": "Next Bookings information dashboard for personal use."
+}

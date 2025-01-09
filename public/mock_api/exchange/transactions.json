@@ -1,0 +1,38 @@
+{
+  "-NdMPr-SusoW6LXRNIHa": {
+    "id": 1693683773132,
+    "month": "September",
+    "notes": "Bookings",
+    "price": 302,
+    "receiverId": 3,
+    "senderId": 2,
+    "year": 2024
+  },
+  "-NdthvCjz_IR6nfqHVu8": {
+    "id": 1694259196358,
+    "month": "September",
+    "notes": "",
+    "price": 1000,
+    "receiverId": 3,
+    "senderId": 1,
+    "year": 2023
+  },
+  "-No1dgKYLq5ljlN8Y2rY": {
+    "id": 1705146500188,
+    "month": "January",
+    "notes": "",
+    "price": 20,
+    "receiverId": 3,
+    "senderId": 2,
+    "year": 2025
+  },
+  "-O76F2mWSNwVvYgLho9E": {
+    "id": 1726698503015,
+    "month": "September",
+    "notes": "",
+    "price": 12,
+    "receiverId": 2,
+    "senderId": 3,
+    "year": 2024
+  }
+}

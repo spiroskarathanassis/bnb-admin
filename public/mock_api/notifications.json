@@ -1,0 +1,58 @@
+{
+  "-O7f-6ir5qbMNaIkylYE": {
+    "item": {
+      "description": "Nightstand",
+      "month": "JULY_SEPTEMBER",
+      "notes": "",
+      "price": 230,
+      "purchaser": 2,
+      "year": 2024
+    },
+    "last_change": {
+      "email": "bobsmith@gmail.com",
+      "name": "Bob S",
+      "timestamp": "2024-09-25T21:05:04.765Z"
+    },
+    "prev_item": {
+      "description": "Nightstand",
+      "id": 10,
+      "key": "-ModowKRX8skcOEmjP-1",
+      "month": "JULY_SEPTEMBER",
+      "notes": "",
+      "price": 150,
+      "purchaser": 2,
+      "year": 2024
+    },
+    "status": "updated",
+    "type": "purchase",
+    "unread_by": ["paulsmith@gmail.com"]
+  },
+  "-O7f-yr4cQZdHL0JP_XC": {
+    "item": {
+      "month": "September",
+      "notes": "Bookings",
+      "price": 310,
+      "receiverId": 3,
+      "senderId": 2,
+      "year": 2024
+    },
+    "last_change": {
+      "email": "bobsmith@gmail.com",
+      "name": "Bob S",
+      "timestamp": "2024-09-25T21:08:50.564Z"
+    },
+    "prev_item": {
+      "id": 1693683773132,
+      "key": "-NdMPr-SusoW6LXRNIHa",
+      "month": "September",
+      "notes": "Bookings",
+      "price": 300,
+      "receiverId": 3,
+      "senderId": 2,
+      "year": 2024
+    },
+    "status": "updated",
+    "type": "transaction",
+    "unread_by": ["paulsmith@gmail.com"]
+  }
+}
